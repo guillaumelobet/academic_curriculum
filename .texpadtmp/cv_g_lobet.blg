@@ -1,0 +1,114 @@
+[0] Config.pm:343> INFO - This is Biber 2.5
+[2] Config.pm:346> INFO - Logfile is '/Users/g.lobet/Dropbox/science/admin/cv/default/.texpadtmp/cv_g_lobet.blg'
+[95] biber-darwin:290> INFO - === Fri Jun  8, 2018, 09:02:34
+[126] Biber.pm:351> INFO - Reading '/Users/g.lobet/Dropbox/science/admin/cv/default/.texpadtmp/cv_g_lobet.bcf'
+[339] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
+[339] Biber.pm:773> INFO - Using all citekeys in bib section 1
+[340] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
+[340] Biber.pm:773> INFO - Using all citekeys in bib section 2
+[341] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
+[341] Biber.pm:773> INFO - Using all citekeys in bib section 3
+[341] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
+[342] Biber.pm:773> INFO - Using all citekeys in bib section 4
+[342] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
+[413] Biber.pm:3493> INFO - Processing section 1
+[432] Biber.pm:3657> INFO - Looking for bibtex format file 'bibliography_auto.bib' for section 1
+[439] bibtex.pm:1187> INFO - Decoding LaTeX character macros into UTF-8
+[444] bibtex.pm:1048> INFO - Found BibTeX data source '/Users/g.lobet/Dropbox/science/admin/cv/default/.texpadtmp/bibliography_auto.bib'
+[457] Utils.pm:149> WARN - Name "Pagès, L, and, Draye, X" has too many commas: skipping name
+[458] Utils.pm:149> WARN - Name "Tocquin, P, and, Périlleux, C" has too many commas: skipping name
+[462] Utils.pm:149> WARN - Name "Draye, X, and, Bennett, MJ" has too many commas: skipping name
+[465] Utils.pm:149> WARN - Name "Vogel, J, and, Dinneny, J" has too many commas: skipping name
+[472] Utils.pm:149> WARN - Name "Pagès, L, and, Delaplace, P" has too many commas: skipping name
+[475] Utils.pm:149> WARN - Name "Pagès, P, and, Draye, X" has too many commas: skipping name
+[476] Utils.pm:149> WARN - Name "Javaux, M, and, Draye, X" has too many commas: skipping name
+[479] Utils.pm:149> WARN - Name "Lobet, G*, and, Tocquin, P" has too many commas: skipping name
+[482] Utils.pm:149> WARN - Name "Lobet, G, and, Javaux, M" has too many commas: skipping name
+[486] Utils.pm:149> WARN - Name "Topp, C, and, Lobet, G" has too many commas: skipping name
+[487] Utils.pm:149> WARN - Name "Draye, X, and, Périlleux, C" has too many commas: skipping name
+[488] Utils.pm:149> WARN - Name "Lobet, G, and, Draye, X" has too many commas: skipping name
+[489] Utils.pm:149> WARN - Name "York, L, and, Lobet, G" has too many commas: skipping name
+[495] Utils.pm:149> WARN - Name "Pridmore, TP, and, Schnepf, A" has too many commas: skipping name
+[497] Utils.pm:149> WARN - Name "Tocquin, P, and, Périlleux, C" has too many commas: skipping name
+[517] Utils.pm:149> WARN - Name "Bielders, CL, and, Lutts, S" has too many commas: skipping name
+[529] Utils.pm:149> WARN - The field 'author' in entry 'art-9' cannot be null, deleting it
+[531] Utils.pm:149> WARN - The field 'author' in entry 'art-27' cannot be null, deleting it
+[610] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[610] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[610] Biber.pm:3306> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
+[611] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
+[675] Biber.pm:3493> INFO - Processing section 2
+[675] Biber.pm:3657> INFO - Looking for bibtex format file 'bibliography_auto.bib' for section 2
+[676] Utils.pm:149> WARN - Name "Pagès, L, and, Draye, X" has too many commas: skipping name
+[677] Utils.pm:149> WARN - Name "Tocquin, P, and, Périlleux, C" has too many commas: skipping name
+[679] Utils.pm:149> WARN - Name "Draye, X, and, Bennett, MJ" has too many commas: skipping name
+[681] Utils.pm:149> WARN - Name "Vogel, J, and, Dinneny, J" has too many commas: skipping name
+[684] Utils.pm:149> WARN - Name "Pagès, L, and, Delaplace, P" has too many commas: skipping name
+[687] Utils.pm:149> WARN - Name "Pagès, P, and, Draye, X" has too many commas: skipping name
+[688] Utils.pm:149> WARN - Name "Javaux, M, and, Draye, X" has too many commas: skipping name
+[690] Utils.pm:149> WARN - Name "Lobet, G*, and, Tocquin, P" has too many commas: skipping name
+[692] Utils.pm:149> WARN - Name "Lobet, G, and, Javaux, M" has too many commas: skipping name
+[693] Utils.pm:149> WARN - Name "Topp, C, and, Lobet, G" has too many commas: skipping name
+[694] Utils.pm:149> WARN - Name "Draye, X, and, Périlleux, C" has too many commas: skipping name
+[695] Utils.pm:149> WARN - Name "Lobet, G, and, Draye, X" has too many commas: skipping name
+[695] Utils.pm:149> WARN - Name "York, L, and, Lobet, G" has too many commas: skipping name
+[698] Utils.pm:149> WARN - Name "Pridmore, TP, and, Schnepf, A" has too many commas: skipping name
+[700] Utils.pm:149> WARN - Name "Tocquin, P, and, Périlleux, C" has too many commas: skipping name
+[712] Utils.pm:149> WARN - Name "Bielders, CL, and, Lutts, S" has too many commas: skipping name
+[718] Utils.pm:149> WARN - The field 'author' in entry 'art-9' cannot be null, deleting it
+[719] Utils.pm:149> WARN - The field 'author' in entry 'art-27' cannot be null, deleting it
+[834] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[834] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[834] Biber.pm:3306> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
+[836] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
+[1106] Biber.pm:3493> INFO - Processing section 3
+[1106] Biber.pm:3657> INFO - Looking for bibtex format file 'bibliography_auto.bib' for section 3
+[1110] Utils.pm:149> WARN - Name "Pagès, L, and, Draye, X" has too many commas: skipping name
+[1111] Utils.pm:149> WARN - Name "Tocquin, P, and, Périlleux, C" has too many commas: skipping name
+[1115] Utils.pm:149> WARN - Name "Draye, X, and, Bennett, MJ" has too many commas: skipping name
+[1118] Utils.pm:149> WARN - Name "Vogel, J, and, Dinneny, J" has too many commas: skipping name
+[1124] Utils.pm:149> WARN - Name "Pagès, L, and, Delaplace, P" has too many commas: skipping name
+[1130] Utils.pm:149> WARN - Name "Pagès, P, and, Draye, X" has too many commas: skipping name
+[1132] Utils.pm:149> WARN - Name "Javaux, M, and, Draye, X" has too many commas: skipping name
+[1137] Utils.pm:149> WARN - Name "Lobet, G*, and, Tocquin, P" has too many commas: skipping name
+[1143] Utils.pm:149> WARN - Name "Lobet, G, and, Javaux, M" has too many commas: skipping name
+[1146] Utils.pm:149> WARN - Name "Topp, C, and, Lobet, G" has too many commas: skipping name
+[1147] Utils.pm:149> WARN - Name "Draye, X, and, Périlleux, C" has too many commas: skipping name
+[1149] Utils.pm:149> WARN - Name "Lobet, G, and, Draye, X" has too many commas: skipping name
+[1149] Utils.pm:149> WARN - Name "York, L, and, Lobet, G" has too many commas: skipping name
+[1154] Utils.pm:149> WARN - Name "Pridmore, TP, and, Schnepf, A" has too many commas: skipping name
+[1157] Utils.pm:149> WARN - Name "Tocquin, P, and, Périlleux, C" has too many commas: skipping name
+[1182] Utils.pm:149> WARN - Name "Bielders, CL, and, Lutts, S" has too many commas: skipping name
+[1198] Utils.pm:149> WARN - The field 'author' in entry 'art-9' cannot be null, deleting it
+[1199] Utils.pm:149> WARN - The field 'author' in entry 'art-27' cannot be null, deleting it
+[1317] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1317] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1318] Biber.pm:3306> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
+[1318] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
+[1385] Biber.pm:3493> INFO - Processing section 4
+[1386] Biber.pm:3657> INFO - Looking for bibtex format file 'bibliography_auto.bib' for section 4
+[1387] Utils.pm:149> WARN - Name "Pagès, L, and, Draye, X" has too many commas: skipping name
+[1388] Utils.pm:149> WARN - Name "Tocquin, P, and, Périlleux, C" has too many commas: skipping name
+[1391] Utils.pm:149> WARN - Name "Draye, X, and, Bennett, MJ" has too many commas: skipping name
+[1393] Utils.pm:149> WARN - Name "Vogel, J, and, Dinneny, J" has too many commas: skipping name
+[1396] Utils.pm:149> WARN - Name "Pagès, L, and, Delaplace, P" has too many commas: skipping name
+[1399] Utils.pm:149> WARN - Name "Pagès, P, and, Draye, X" has too many commas: skipping name
+[1400] Utils.pm:149> WARN - Name "Javaux, M, and, Draye, X" has too many commas: skipping name
+[1402] Utils.pm:149> WARN - Name "Lobet, G*, and, Tocquin, P" has too many commas: skipping name
+[1404] Utils.pm:149> WARN - Name "Lobet, G, and, Javaux, M" has too many commas: skipping name
+[1405] Utils.pm:149> WARN - Name "Topp, C, and, Lobet, G" has too many commas: skipping name
+[1406] Utils.pm:149> WARN - Name "Draye, X, and, Périlleux, C" has too many commas: skipping name
+[1407] Utils.pm:149> WARN - Name "Lobet, G, and, Draye, X" has too many commas: skipping name
+[1408] Utils.pm:149> WARN - Name "York, L, and, Lobet, G" has too many commas: skipping name
+[1411] Utils.pm:149> WARN - Name "Pridmore, TP, and, Schnepf, A" has too many commas: skipping name
+[1412] Utils.pm:149> WARN - Name "Tocquin, P, and, Périlleux, C" has too many commas: skipping name
+[1424] Utils.pm:149> WARN - Name "Bielders, CL, and, Lutts, S" has too many commas: skipping name
+[1431] Utils.pm:149> WARN - The field 'author' in entry 'art-9' cannot be null, deleting it
+[1432] Utils.pm:149> WARN - The field 'author' in entry 'art-27' cannot be null, deleting it
+[1500] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1500] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1500] Biber.pm:3306> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
+[1500] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
+[1566] bbl.pm:526> INFO - Writing '/Users/g.lobet/Dropbox/science/admin/cv/default/.texpadtmp/cv_g_lobet.bbl' with encoding 'UTF-8'
+[1599] bbl.pm:619> INFO - Output to /Users/g.lobet/Dropbox/science/admin/cv/default/.texpadtmp/cv_g_lobet.bbl
+[1600] Biber.pm:108> INFO - WARNINGS: 72
